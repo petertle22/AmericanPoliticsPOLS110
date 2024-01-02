@@ -1,0 +1,81 @@
+Chapter 5 Civil Liberties
+Limitations on the power of the federal government => Rights in terms of immunity from government interference
+
+Judicial Rule vs Judicial Standard
+Judicial Rule: Hard-and-fast boundaries between what is lawful and what is not
+  Example: Trimester scheme in Roe vs Wade
+
+Judicial Standard: Guiding principles that help governments make judgement calls
+  Example: "Undue Burden" on abortion (great persuasion) 
+
+Bill of Rights are intended to protect minority rights against the tyranny of the majorityyou
+Protection on hate speech depends on context
+
+Hate Speech Cases: 
+Snyder vs Phelps: Mathew Synder was a marine that died in Iraq. Phelps was the head of his own church, West Crow Baptist. Phelps argued that the US fatalities in Iraq aws a devine punishment for allowing gays in the army. 
+Protested funerals for the gays. Phelps hated the pope and Roman catholics.
+  => Synder's father saw Phelps on TV and sued Phelps. The SCOTUS protected Phelps because it did not present clear and immediate danger because Snyder's father was far away.
+
+Matal vs Tam (2018): Includes a pop rock bland called the "The Slants", "Slants" is a derogatory term for asian americans. The band leader wanted to reclaim the "slant" as a positive word. 
+The US patent group denied Tam's trademark "The Slants"... The SCOTUS defended Tam's trademark "The Slants" as protected free speech 
+
+Reveals that hate speech is protected but if it causes violent action then illegal. 
+
+Symbolic Speech:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Virginia vs Black (2003): Involves a Virginia law (statute) which bans cross burning
+At a KKK event, clan member Barry Black burned a cross in highway 95 on Barry Black's personal property. His neighbor called the police.
+  => Protected speech as the crossed was burned on private property
+  => Developed the "true threat" doctrine: Hate is punishable if it creates a "true threat" => Targeting someone and threatening them
+  Supreme Court Justice Clarence Thomas argued that whenever you burn a cross, it is a crime. 
+
+Texas vs Johnson (1989): Gregory Johnson burned the American flag outside the Republican national convention. SCOTUS protected Johnson although the court is conservative
+The govt cannot punish people that are not patriotic.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Religous Liberties:
+Nonestablishment clause: Congress shall pass no law respecting an establishment of religion. => Prevents the establishment of a national religion. => Creates a wall of separation for church and state but how high is this wall
+    Interpretations of the Nonestablishment Clause:
+        1. Separationist interpretation wants high separation of church and state
+        2. Accomodationist believes that religion plays a huge role in America. As long as the government is nuetral for all religions, then the non-establishment clause is not violated
+
+    Everson vs the Board of Education (1947): incorporated the nonestablishment clausements => empowers federal judges to review state laws regarding the nonestablishment clause.
+    Engel vs Vitale (1962): The state of NY developed a prayer that respected God => The SCOTUS struck it down as it violated the non-establishemnt clause
+    Lemon vs Kurtzman (1973): The SCOTUS developed a standard whether or not the state transgressed the wall of separation (The Lemon Test). 
+        - The law must have a valid secular purpose.
+        - Neither advance nor inhibit religion. 
+        - Cannot involve an excessive entangle of religion.
+    Lemon vs Kurtzman has been abandoned as it is hard to apply. 
+    Kennedy vs Bremerton School District (2022) reversed Lemon vs Bremerton ruled that govt may not suppress an individual from engaging in personal religious observances.
+
+Free Exercise clause: 
+Reynolds vs United States (1879) ruled that a federal law prohibiting polygamy did not violate the free exercise clause of the First Amendment. => Inciting religion to defend a crime is NOT valid. 
+Sherbert vs Verner: Sherbert observed her sabbath day on Saturday instead of Sunday and was denied unemployment benefits
+  => She sued and the SCOTUS protected her unemployment => Does the government have an interest to deny their unemployment?
+Oregon vs Smith: on payote drug => made it easier to uphold the law provided the law is applied nuetrally. 
+
+Congress passed Religious Freedom Restoration Act tried to protect exercise of religion 
+
+Right to privacy is no where explicitly mentioned in the Bill of Rights 
+The SCOTUS in Griswald vs Connecticut implied that the:
+    - 4th amendment which protects against unreasonable search and siezures
+    - 9th amendments says the Bill of Rights is not complete 
+    - 3rd amendment which protects aganist quarter troops implies that
+the right to privacy is implied => extended to abortion in Roe vs Wade
+  => Developed a trimester scheme to decide when abortion is illegal
+  => Replaced with Casey vs Planned Parenthood (1992) via the "undue burden" test
+  => Reversed by Dobbs vs Jackson (2022), the federal government no longer protects abortion by the right to privacy
+
+2nd Amendment was incorporated to the states by Heller vs DC (2008) 
+    => Expanded by McDonald vs City of Chicago (2010)
+
+8th Amendment 
+
+Due process provides rights to the accused
+4th: right of the people to be secure in their houses from search and seizures. Probable cause and search and warrant are needed to search a house
+    => Mapp vs Ohio (1961) established the exclusionary rule 
+5th: gaurantee protection against double jeopardy and protection against self-incrimination
+6th: Guarantees the rights of criminal defendants, including the right to a public trial without unncessary delay, right to a lawyer 
+    => Gideon vs Wainright (1963)
+
+Miranda warnings were established: The police have to remind you of Miranda rights in order to be arrested (Miranda vs Arizona, 1962)

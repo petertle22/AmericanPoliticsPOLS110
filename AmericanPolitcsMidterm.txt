@@ -1,0 +1,364 @@
+1.	What is the study of politics about and how does it differ from other "sciences"? 
+    What is legitimacy? Discuss Aristotle's classification of different kinds of regimes. 
+
+        Politics: - Who gets what, when and how. Every society has limited amounts of money, prestige, power, and other desirables.
+                    Politics helps determine how we distribute them-to which people, in what amounts, under which rules. 
+                  - How a society makes it collective decisions. 
+                  - The activity of ruling and being ruled, of governing. 
+                  - Politics asks (1) Who governs? (2) To what ends? What ends is power used towards?
+                        Power: the ability to a get another person to act in accordance with the first person's intention. 
+
+        Other "sciences" have formulas and are in the realm of practical action. Involves, intellect, free choice, contingency, variable circumstances,
+        but does not have the same degree of certainty as math. 
+            - Psychology: psyche logos (account) of psyche
+            - Biology: Bios logos (account) of life
+            - Economics: scarcity, limited ability to satisfy unlimited wants. Production, exchange, distribution of wealth in society.
+        
+        Legitimacy: Just exercise of power that benefits the common good in accordance with the rule of law and standards of right. 
+                    Power is exercised justly and rightly. 
+        
+        Aristotle's classification of regimes:
+
+            true                    one                       few                          many
+            -----------             -----------               -----------                  -----------
+            common good             monarchy                  aristocracy                  republic
+
+            perverted
+            -----------
+            self-interested         tyranny                   oligarchy/plutocracy         Democracy/mobocracy
+
+
+2.	Discuss the Declaration of Independence as a covenant, an indictment, and the source of the American creed.
+    Identify the core principles of the Declaration? 
+
+        Covenant: a mutual agreement that provides for joint action to achieve defined goals invoking religious or moral authority. 
+            On July 4, 1776, American leaders issued a Declaration of Independence explaining their decision to break away from England. 
+                We hold these truths to be self-evident, that all men are created 
+                equal, that they are endowed by their Creator with certain unalienable 
+                rights that among these are life, liberty and the pursuit of happiness.
+            The role of the government is securing each individual's right to life, liberty, and the pursuit of happiness.
+            "And for the support of this Declaration, with a firm reliance on the protection of Divine Providence, we mutually pledge
+                to each other our Lives, our Fortunes and our sacred Honor"
+            Honor above interest.
+
+        Indictment: Takes a legal form going back english common law => an initial state of trial for the accused to determine 
+                    if there is sufficient eveidence to accuse someone of doing wrong. 
+            The Declaration of Independence provides a bill of particulars of how general prinipals is life, liberty, persuit of happiness were violated:
+                1. The judges are at the mercy of the king
+                2. He made us quarter troops in our hoom
+                3. Dictatorship
+                4. Taxes without consent
+                5. Deprival of trial by jury
+                6. For transporting us beyond seas to be tried for pretented offenses. 
+                7. Transporting larger armies to complete the works of death, desolation and tyranny => brought foreign mercinaries to kill us (the Heshians)
+        
+        Source of American Creed: 
+            Our fundamental beliefs that we share as Americans. The political culture and habits of the heart that we share and unites us. Our moral covenant
+            that binds us together.  
+
+        The Core Principles of the Declaration of Independence:
+            1. Equality
+            2. Consent
+            3. Liberty
+            4. Popular Sovereignty and Self-Government
+            5. Unalienable Rights
+            6. Pursuit of happiness
+            7. Social Contract
+            8. Right to Revolution
+
+3.	Explain Three Roots of American Order and their influence on American politics. 
+    Mention specific thinkers, documents, ideas. 
+
+Roots of American Order:
+1. Puritanism: The Puritans were English Protestants in the 16th and 17 centuries who sought to rid the
+               Church of Roman Catholic practices.
+
+               Tocqueville on the influence of Puritanism in American political culture: "Puritanism was not only a religious doctrine
+               it also blendd at several points with the most democractive and republican theoreis"
+
+               Pennyslania was a holy expiriment: William Penn established Pennsylvania and sought to emplace his Quaker ideals
+                   1. Fair treatment of native americans
+                   2. No military
+                   3. New approach to governnace: free to the people under it, be whatever the frame, where the laws rule, and people are a party to those law
+                   4. Freedom religion
+                   
+               puritans in mass bay considered themselves a collection of saints and they persecuted Quakers
+               
+               The Puritans expressed American Exceptionalism. John Winthrop described America as a "city on the hill" and expected "the eyes of all people on us". 
+               America has a special purpose for the world
+
+               pligrims in plymouth: English settlers who traveled to America on the Mayflower who fled the English religous persecution. also maintained sep of church and state 
+               Rhode island - Roger Williams was a puritan who preached the separation of church and state
+               Maryland- Religious Toleration ACt: the fist law in North America requiring religious tolerance for Christians
+
+                Puritans made the concept of equality and consent:
+                    - town hall meetings
+                    - Universal education (public schools)
+                    - Middle class families
+
+
+2. Enlighment Rationalism: Pioneered by John Locke, the Enlightmnet was an intellectual and philosophical
+                           movement that occured in Europe. The enlighment included a range of ideas centered
+                           on human happiness, pusuitm of knowledge by means of reason and the evidence of the senses
+                           Ideals include natural law, liberty, progress, toleration, fraternity, constituitonal government
+                           , and separation of church and state. John Locke is the father of liberalism based on the rights of
+                           individual, liberty, consent of the governed, political equality, right to private property and equality 
+                           before the law
+                           
+                           The Social Contract
+                           Locke believed the state of nature has a law of nature to govern it. Reason is the law of nature that being all
+                           are equal and independent, no one ought to harm another in his life, health, liberty, or possessions
+                           People will seek out and join a society with others who are already united or have a mind to unite for mutual
+                           preservations of life, liberty, property
+
+                           The Declaration of Independence political philosophy:
+                             1. All people are equal
+                             2. Their creator endowed them with rights that cannot be taken away
+                             3. These rights include life, liberty, and the pursuit of happiness
+                             4. People form government to protect those rights
+                             5. Governments derive their just powers from the consent of the governed. 
+
+                           Protection of inalienable rights
+
+                           Consent: "men being... by Nature, all free, equal and independent, no one can be put out of his Estate, and subjected to
+                           the political power of another, without his own consent"
+                           1. Social contract
+                           2. Form of Government
+                           3. Elections
+                           4. Right to Revoluiton => Locke says whenever there is a long train of abuses (life, liberty, and property) and usurpations, 
+                                                     period of time, then the people ahve a right to revolution
+                           
+
+3. British constituitonalism: 
+                              The Magna Carta
+                              is a royal charter of rights agreed to by King John of England. The Magna Carta made peace between
+                              the unpopular king and a group of rebel barons, it promised the protection of church rights, protection
+                              for the barons from illegal imprisonment, access to swift justice, and limitations on feudal payments to 
+                              the Crown, to be implemented through a council of 25 barons.
+
+                              - consent and no taxation without representation
+                              - Due process: no official shall place a man on trial upon his own unsupported statement, without producing 
+                                             credible witnesse to the truth of it. 
+                                             
+                                             No free man shall be seized or imprisoned, or stripped of 
+                                             his rights or possessions, or outlawed or exiled, or deprived of his standing in any other way
+                                             nor will we proceed with force against him, or send others to do so, except by the lawful judgement
+                                             of his equals or by the law of the land
+
+                                             No one will sell, to no one deny or delay right or justice
+
+                             English Bill of Rights, 1689 => Glorious Revolution
+                               - Levying money for the Crown or by pretence of prerogative without the grant of Parliament
+                                 for longer time is granted by Parliament is illegal
+                               - Raising/maintaining an army in time of peace unless it is allowed by Parliament is illegal
+                               - Subjects which are PRotestants may have arms for their defense suitable to their conditions and as allowed by law
+                               - Election of members of Parliament to be free
+                               - Freedom of speech and debates or proceedings in Parliament may not be impeached or questioned in any court or place 
+                                 out of Parliament
+                               - Excessive bail ought not to be required, nor excessive fines
+
+
+4. Republicanism:
+                       Free and equal citizens under the constituiton - for law, liberty, constituiton
+                       Public spiritedness & civic virtue: "ask not what your country can do for you, but what you can do for your country"
+                       self-governance under rule of law
+                       Washington was influenced by Cato's conservatism and Cincinnatus's reliquishing of power (Cincinnatus was a military leader who 
+                       was given complete control of the state, but reliquished his power once he won the war in 16 days. he returned to his farm)
+    
+4.	Identify and explain the 3 provisions of the Constitution that deal with slavery? 
+    What does the language of the Constitution suggest about slavery? What is the significance of the Northwest Ordinance?
+
+        Article 1 Section 2: Counting Slaves Towards Representation => Three-Fifths Compromise
+            "Representatives and direct Taxes shall be apportioned among several States which may be included within this Union,
+             according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those 
+             bound to Service for a Term of Years and excluding Indians not taxed, three fifths of all other Persons"
+
+        Article 1 Section 9: Prohibition of Ban on Foreign Slave Trade till 1808:
+            "The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited
+             by Congress prior to Year one thousand eight hundred and eight, but a Tax or duty may be imposed on such importation not exeeding 
+             ten dollars for each person" 
+
+        Article 4 Section 2: Fugitive Slave Provision-Runaways:
+            "No Person held to Service or Labour in one State under the Laws thereof, escaping into another, shall, in Consequence of Any Law or Regulation
+             there in, be discharged from such Service or Labour, but shall be delivered up on Claim of the Party to whom such Service or Labour may be due"
+
+        The Constitution uses euphemistic (friendly/sugar-coats) language => No mention of the word "slave" or "slavery" in the Constitution.
+                                                                          => No mention of race or color
+                                                                          => Slaves are referred to as "persons" - potential recognition for freedom according to Frederick Douglass
+
+        The Northwest Ordinance of 1787 banned slavery and involuntary servitude. However, slaves entering the Northwest Ordinance may de detained and deported back to his owner.
+
+5.	Discuss the separation of powers. Explain how separated institutions share power and provide an example of how this is done in each case. 
+    You must mention Federalist 51 as an explanation of how this works. 
+        
+        Separation of Powers, Articles I, II, III
+            Article 1 Section 1: Legislative Branch => "All legislative Powers herein granted shall be vested in a Congress of the United States, 
+                                                        which shall consist of a Senate and House of Representative."
+
+                435 members in house but seats are based on population. Population of each district is about 720,000
+
+            Article 2 Section 1: Executive Branch => "The executive Power shall be vested in a President of the United States."
+
+            Article 3 Section 1: Judicial Branch => "The judicial Power of the United States, shall be vested in one supreme Court,
+                                                     and in such inferior Courts as the Congress may from time to time ordain and establish."
+
+        Separated Institutions Sharing Power 
+            Shared Legislative Power
+                - Congress-Primary Legislative Authority
+                - President can veto
+                - Supreme Court can exercise judicial review
+            Shared Executive Power
+                - President-Primary Executive Authority
+                - Congress-Impeaches the President but the senate must vote 2/3 super-majority to remove from office. 
+                - Judiciary-judicial review from Marbury vs Madison (1803)
+            Shared Judicial Power
+                - Federal Courts-Primary Judicial Authority
+                - Congress-establishes size of Federal Courts, impeachment
+                - President-Appoints all federal judges
+        
+        In Federalist 51, Madison writes "the great security against a gradual concentration of the several powers in the same 
+        department, consists in giving to those who administer each department the necessary constitutional means and personal motives
+        to resist encroachments of the others... Ambition must be made to counteract ambition." => Harnessing self-interest for each branch 
+        will pit the government against itself. 
+
+6.	Discuss the Articles of Confederation and explain how the Constitution sought to remedy its defects in creating "a more perfect Union." 
+    Provide specific examples. 
+
+        The Articles of Confederation was the first constitutional government of the United States. Confederation is an alliance and loose association of states
+            - National Government was weak and dependent upon the states
+            - Unicameral Legislature
+            - Equal Representation of States
+            - 2/3 Supermajority to pass laws
+            - Unanimity Required to Amend
+        
+        Weaknesses:
+            - No executive power to enforce laws
+            - No power to tax. Federal government had to rely on voluntary contributions to operate. 
+            - Laws DO NOT apply to individuals
+            - No national court to judge laws
+            - Trade wars among states
+            - Border disputes
+            - International disrespect
+            - No uniform currency
+            - Inability to pay army
+            - Inability to pay debt
+            - Domestic unrest
+            - Anarchy of state legislatures
+
+        Shays' Rebellion (1787) shook the articles of Confederation 
+            Daniel Shays and other revolutionary war veterans returned home and their farms were foreclosed. By December, the rebellion seizes 6 courthouses and an
+            armory. Mass government asks for help from national government but the national government said they cannot help => Private army is raised by Benjamin Franklin
+            Called for a convention to revise the Articles of Confederation but scrapped it to get the modern day Constitution of 1787. Shays' Rebellion influenced the founding
+            fathers that we need a strong federal government. 
+
+        The modern-day Constitution of 1787 provides Enumerated/Delegated Powers for the federal government: 
+            Article I Section 8, line 17
+                "Congress shall have Power to lay and collect Taxes, Duties, Imposts, Excises, to pay Debts and provide for the common Defense and general Welfare of the United States..."
+                "To borrow money on the credit of the U.S."
+                "To regulate Commerce with foreign Nations, and among the several states..."
+                "To coin Money, regulate the Value thereof, and of foreign Coin, and ix the Standard of Weights and Measures."
+                "To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries."
+
+7.	Distinguish between 2 kinds of popular government, pure democracy versus republicanism.
+    What are their similarities and how do they differ? 
+
+        Pure Democracy: People are the direct rules
+            Prone to tyranny by the majority (mobocracy)
+            Everyone has a vote and has a direct voice (plebitarianism)
+                Example: Athens
+
+
+        Republicanism: A government in which citizens rule indirectly and make government decisions through their elected representatives.
+            Citizens rule indirectly via representatives. 
+            Features checks and balances and separation power,
+                Example: Roman republic
+
+        Similarities: 
+            - Rule of the majority => "The voice of the pople is the voice of God"
+            - State government and authority resides in the people.
+        
+
+        Differences
+            - A republic has a separation of power and features checks and balances, but the democracy does not.
+            - Democracy is vulnerable to tyranny of the majority.
+
+
+
+8.	Discuss the Great Compromise at the Constitutional Convention. Identify the other proposals that it combined. 
+        At the Constituional Convention, there was a dispute between large states (led by MA, PA, VA) and small states (led by NJ, RI, NH) in terms of population
+        over the representation in government. Under the Articles of Confederation, each state had 1 vote (equal representation) and laws were a suggestion.
+
+            The large states proposed the Virginia Plan by Madison:
+                1. Congress would have two chambers with representation in both chambers based on state population
+                2. Citzens would vote for members of the House of Representatives. The House would vote for senators from a list of candidates.
+                3. Congress would elect the president.
+                4. A national judiciary with one or more supreme courts would be established, with life tenure
+
+            The small states proposed the New Jersey Plan by Paterson. 
+                1. Congress would have one chamber where each state has one vote in Congress, regardless of size. 
+                2. Congress would elect a committee to serve as the federal executive for one term only
+                3. The executive committee would select the supreme court, which would be responsible for foreign policy, economic policy, and impeachment of federal officials
+                4. The national government could tax the states and would have the exclusive right to tax imports
+            
+            The Connecticut Compromise (The Great Compromise): Roger Sherman of Connecticut proposed a compromise
+                1. House of Representatives would be based on population
+                2. Senate would have two representatives chosen by the public and the state
+                3. The president is one individual, independent of Congress, who could represent the public. 
+                4. The president would be chosen by the Electoral College. Each state would select individuals known as electors who vote on the president. 
+                   States get electors based on the number of representatives and senators a state has. 
+
+
+9.	Discuss Federalism and two specific provisions of the Constitution related to it. 
+    Mention the different approaches to federalism throughout American history - for example, dual federalism.
+
+        Reserved Powers: 10th Amendment => "The powers not delegated to the United States by the Constituion, nor prohibited by it to the States, are reserved to the States respectively, or to the people there of"
+                                                => The Federal government can create a Department of Education but cannot tell the Department what to teach us. 
+
+        Supremacy Clause: Article 6, Section 2 => The constituitonal declaration that the national government's authority prevails over any conflicting state or local government's claims, provided the power is granted
+                                                  to the federal government => McCulloch vs Maryland (1819) over the creation of the national bank 
+
+        Dual Federalism: also known as "Layered Cake" has a clear division of governing authority and responsibilities between national and state government. 
+                         The different levels of government are (1) national, (2) state, and (3) local. Each level of government was supreme within its own band of influence.
+                         For the first 150 years, the United States practiced dual federalism
+                            The federal government managed international relations by trading, wars, diplomacy, and immigration.
+                            The federal government managed "internal improvements" such as transportation, a single currency, and overseeing westward expansion. 
+                            The federal government regulated relations and commerce between the states. 
+
+                            The states oversaw education, marriage, divorce, professional regulation, business contracts, driving, drunking, and burials. 
+
+        Cooperative Federalism: Also called marble cake federalism, a system of mingled governing authority, with functions across national and state government. 
+                                    During the New Deal of the 1930s, programs involved both the state and federal government working together. Officials in Washington provided federal funds through grants-in-aimed
+                                    national funds accompanied by specific instructions to state and local officials about how the money could be spent. 
+                                        Example: During the Great Depression, governors and state leaders accepted these grants for roads, bridges, hospitals, health care clinics, and Social Security payments for seniors. 
+        
+        Contested Federalism: A system of mingled governing authority marked by high partisan conflict in which both parties try to influence policy by 
+                              shifting functions among national, state, and local governments; also known as super-swirl cake federalism.
+                              Federal, state, and local government all compete for influence over programs. The Reagan administration provided national funding (block grants) to the state and local
+                              government with relatively few restrictions or requirements to implement specific policy areas, such as education, transportation, or health. The Bush and Obama adminstration
+                              further would set program goals and relied on state innovation to achieve them. For example, the Affordable Care Act (Obamacare) aimed to deliver private health insurance to 28
+                              million Americans. The states were incentivized to build insurance exchanges where individuals could shop among competing health insurance plans. The federal government would step
+                              in and build websites if the states could not meet the demand. 
+
+
+10.	Identify Articles 4-7 in the Constitution. What are these articles about? What do they say?  Summarize their major provisions and include a specific example of each. 
+        Constituion has 7 articles however:
+            Article 4: The constitutional requirement that each state recognizes and upholds laws passed by another state. A state may not discriminate against citizens of
+                    other states, and each must give "full faith and credit" to official acts of other states and guarantee every state a republican form of government
+                        Example: A drivers license issued in one state is honored in every other state.
+
+            Article 5: Authorizes amendments to the Constituion. Two-thirds of both the House and Senate must approve the amendment. Then three-fourths of the states must ratify
+                    it - either through their state legislatures or through state conventions. 
+                        Example: The only amendment to be ratified through state conventions is the 21 Amendment, which in 1933 repealed teh prohibition of alcohol.        
+
+            Article 6: The Supremacy Clause makes the Constituion the supreme law of the land. Federal laws override state laws and also specifies there must be no religious test
+                    for holding any federal office. 
+                Example: McCulloch vs Maryland (1819) affirmed the constitutionality of the national bank. The federal government is supreme and state cannot tax a creature of the federal government
+                However, the federal government is only supreme in its sphere of operation
+
+            Article 7: Announed that the Constituion would go into effect after nine states had ratified
+
+Full credit will be given for questions that:
+a.	Correctly define and identify all key terms in the question.  
+b.	Correctly explain the key concepts and content related to the question. 
+c.	Correctly include several specifics for each question. 
+d.	Correctly state, where appropriate, the significance of the concepts. Why is this important to the study of American politics. 

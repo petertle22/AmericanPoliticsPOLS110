@@ -1,0 +1,120 @@
+The founding fathers warned against political parties as they thought political parties would serve themselves rather than community
+
+Congress powers are defined in Article 1 in enumerated powers and implied powers. 
+Congress is the law-making body but it has a Senate and House of Representatives.
+The minimum age to be House member is 25-years-old with 2-year terms with no term limits + districts (700_000 people per district) (representation based on population)
+The minimum age to be Senator is 30 years-old with 6-year terms with no term limits. Every 6 years 1/3 of the senate is elected (Equal represntation)
+
+100 Senators 
+435 House members
+
+Most work in the senate is done by a unaminous consent agreement => A Senate requirement that all senators agree an action can proceed (more equality but no seniority in the senate)
+Filibuster: A rule unique to the U.S. Senate that allows any senator to hold the floor indefinitely and thereby delay a vote on a bill to which he or she objects. Filibusters are ended only when 60 senators vote for cloture
+Legislative Hold: An informal way for a senator to object to a bill or other measure reaching the Senate floor. The action effectively halts Senate proceedings on that issue, sometimes for weeks or longer
+Floor: The full chamber either in the House of Representatives or the Senate. A bill "goes to the floor" for the final debate and vote, usually after approval by one or more committees. 
+Cloture vote: The Senate's only approved method for halting a filibuster or lifting legislative hold. If 60 senators vote, then the filibuster is lifted.
+
+The Senate will do work if and only if at least 60 members want to do something => problem filibuster: 1 representative by the threat of legislative hold can oppose the unaniouse consent agreement and blocks the bill/legislation
+In the senate, 60 members are needed to break the filibuster (cloture) => supermajority
+
+The filibuster cannot block nomination of judges
+
+House of representatives has 435 members.
+Seniority matters in the House of Representatives. Younger representatives must serve on less desirable committees first before serving on superior committes.
+Concession: the act of losing candidate publicy yielding to a winning candidate after an election after the overall reuslt of the vote has become clear.
+The Speaker of the House is the leader of the majority power in the House and he can "recognize" people to speak. The speaker gets to assign bills to certain committees. 
+
+In America, we have high rates of incumbency => yet Congress's approval rating is declining 
+There is gridlock in the United States => the executive and Congress can be members of different parties, which creates difficulty in passing national legislation.  
+The House of Representatives has unopposed races which is the result of gerrymandering
+
+Dual Nature of Congress as a national legislature and local/state legislature => as a representative, you represent the local people and serve in the national government
+
+Theories of representation:
+1. Take into interest the national interest (trustee representation)
+2. Delegate representation is where you vote based on what your constituents want.
+Some have criticized Congress for evading issues on same-sex marriage, abortion, and immigration to the president and the court. 
+
+Exam look at the committees
+
+The legislative process
+1. A bill can be written by anyone but the bill must be introduced by a congress member. If a bill originates in the House, then it is designated at HR-x... If a bill orignates in the Senate, then it is designated by S-x, where x is a number tag.
+2. The bill is assigned to a corresponding committee. All bills with tax/money must originate in the House.
+     - Committee of Agriculture
+     - Committee of Ways and Means
+     - Committee of Homeland Security 
+3. Hearings -> the committee will hear testimonies from people 
+4. After the hearings, the bill goes back to the committee for revisions for markup -> a report is made that explains what the bill does-> the house's rules committees decides if it is a open or closed bill... 
+     - Open means amendments from the floor and close means no amendments.
+     - Today, bills are huge with thousands of bills => omnibus bills are thousands of pages long for varying interest
+Floor: The full chamber either in the House of Representatives or the Senate. A bill "goes to the floor" for the final debate and vote, usually after approval by one or more committes. 
+5. The bill is then sent to the both Chambers... If there are different versions between the house and senate versions, then there are more revisions before the president sees it (conference committee which has members of both chambers to fix the different versions)
+6. Finally, signed into law by president
+
+Pork-earmark legislation: legislative item, usually included in spending bills, that directs Congress to fund a particular item in one House member's district or a senator's state.
+
+Executive Branch - presidency (Article 2)
+The president represents the entire country and he is the commander-in-chief of the military
+4 year terms
+22nd amendment says the president can only have 2 terms
+
+The Electoral College was established to protect against lobbying and tyranny of majority => prevents the president from teaming up with the people against the legislative and judicial candidate
+The 12th amendment is important for the Electoral college
+
+Inherent Powers belong to the President's unspecified powers
+ex: President Nixon's mis-use of executive privelage, executive silence statements, President Bush unilaterally detains terrorist without due process
+
+Election Day is the first Tuesday after the first monday of each month since 2008
+New Hampshire is the first state to have a primary
+Iowa has a caucus system
+
+Faithless electors: are electors who go against the popular vote of the state. The elector is the decided by the popular vote of the people => 157 Cases of faithless electors but 21 states do not punish faithless electors
+Article 2 talks about the electoral college 
+
+Electoral votes = # of House Representatives + # of Senators 
+23 Amendment gives D.C. 3 electoral votes 
+
+The total nuber of electoral votes in 538 votes => Need 270 votes to win presidency
+
+All states are "winner take all" except for Maine and Nebraska 
+
+If no candidate wins a majority, then the House decides the president by delegation
+
+Battlegrounds states that highly contested (swing states)
+
+The 12th amendment requires electors to cast separate ballots for President and VP => tactically aknowledges poltical parties
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Article 3 Judiciary
+Judicial review was not included in the Constituition but it was established in Marbury vs Madison
+The judges have life-time tenure in federal level according to good-faith in the hopes that they will be impartial to the times of the people
+
+The seeds of judicial review are planted in Federalist 78 by Alexander Hamilton
+Hamilton says the court is the weakest branch but they are important BC they can interpret the Constituition
+
+In 1857, the SCOTUS strikes down Dred Scott and the Missouri Compromise
+Brutus speaks against Judicial review
+
+There are 2 views of judicial review
+1. Judical activitism: assert its powers in protecting minorities and set aside precendences (starre decisis) => Brown vs Board of Education overturns Plessy vs Ferguson
+2. Judicial self-restraint: reluctant to overturn precedences... The SCOTUS should uphold the precedences
+
+Dobbs vs Jackson which overturned Roe vs Wade is an example of Judicial activitism
+
+Federal Court System decides 1. criminal law by the state 2. Civil Law between citizens 3. Bereaucatic law (title 9) 4. Constitional law
+1. SCOTUS
+2. Appellate Courts / Circuit Courts (13 Circuit Court) => appeals/reverse themselves (no juries)
+3. Federal District Courts (94 Courts) has juries
+
+The losing party has right to appeal to a higher court by a writ of certeria
+
+The SCOTUS has a rule of 4 where at least 4 justices must take interest in order for the SCOTUS to hear the case.
+
+Court is an adversarial process
+Plantiff is the person who brings charges
+Defendent is the person who is denying the charges
+Decision says which party wins the case
+Opinion is the rationality of the court
+     - Majority Opinion: opinion that is endorsed by more than half of the justices in a particular case. 
+     - Concurrency opinion: a written opinion by a justice or judge who agrees with the decision reached by the majority in a case but wants to express additional or different reasoning
+     - Dissenting opinion: A dissenting opinion is a written opinion by a justice or judge who disagrees with the majority decision in a legal case. Dissenting opinions articulate the reasons why the dissenting justice believes the majority got it wrong.

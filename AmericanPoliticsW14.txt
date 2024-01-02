@@ -1,0 +1,129 @@
+The Final Exam has a part 1 (in class only) covers material since midterm excluding chapters 5 and 6.
+Covers campaigns & elections and political parties, Congress, Presidency, Judicial branch
+
+Part 2 is a take home essay (submit online on myCourses under assignment tabs).
+
+Citizenship quiz covers my citizenships (easy)
+
+Buckley vs Valleo (1976) decided that campaign spending protected under the First Amendment
+Citizens United vs Federal Elections Commission () decided that the First Amendment's free speech protects corporations, unions, and other groups who wish to support candidates or causes.
+McCutcheon vs Federal Elections Commission () struck down limits on the total donations an individual can make. The law limits how much you can give to an individual candidate but not how much you can donate to a political party.
+
+PAC (Political Action Committee): An organization of at least 50 people, affliated with an interest group that is permitted to make contributions to candidates for federal office.
+Super PACs: Organizations that raise and spend unlimited amounts of money to promote a candidate or publicize a cause. However, they may not directly contribute to a candidate or coordinate with a campaign. 
+
+527 Groups: Organizations that raise and spend unlimited amounts for "issue advocacy" but are forbidden to coordinate their efforts with any candidate or campaign. 
+
+501(c)(3) organizations are recognized as non-profit by the IRS include charitable, religious, educational, scientific, and literary organizations are prohibited from participating in or intervening in any political campaign, prohibited from lobbying, and cannot engage in propaganda
+
+There are around 527,000 elections every year and the states decide when the elections happen.
+
+Cutting campaign donations => In Europe, the government will spend money on elections
+(+) Evens the playing field and loop-holes laws on campaign financing
+(+) Cannot buy politcal influence
+(-) Gives the government too much influence over freedom of speech
+(-) Limiting campaigns to shorter time
+
+The Electoral College except for Maine and Nebraska is all-or-nothing (winner takes all) for obtaining electoral votes. 
+The number of electoral votes is the number of representatives in the House +2 for each senator.
+
+Problems with the Electoral College
+(-) State legislatures draw the districts lines to promote their political party.
+
+Apportionment vs Districting (applies only to House of Representatives, because the senate always has 2 votes)
+Apportionment: Determine the number of House members and districts for each state
+  A census is taken every 10 years to determine population of each state. Each state is apportioned a number of seats and votes in the Electoral College. District boundary lines are drawn to ensure rough equality in the House.
+  There are 435 seats in the House of representative was set by Congress 
+
+The districts are constructed by the state legislature => there must be around 700,000 people per district but the problem is that the state legislature will bend the districts to gain political power (Gerrymandering) Page 331 in the textbook
+
+The NY state legislature wanted to magnify Rochester's voice => In early divisions, they would split the electoral district but this is considered Gerrymandering
+The SCOTUS decided that districts must be the same size, cannot descrimiante against race, and must be contiguous.
+
+American 2-Party System Elections vs The Parliamentary Multi-party Systems based on proportionate representation.
+Separation of Power between the President and Congress => separate elections for the President and Congress => separate elections where the President does not run for office but Congress does
+  => The separation of power creates gridlock and deadlock affects but does not happen in parliamentary system
+In a parliamentary system, there is no such separation of power -> the chief executive is the head of government (prime minister) -> every 5 years in Britain
+Prime Minister vs President 
+  - Both are leaders of the government
+  - The Prime Minister is the head of the government and will be a member of the majority party.
+  - The President has separate elections from the government and thus may not be a member of a majority party.
+
+In parliamentary system, a coalition party may be created where small parties unite to create a big party and assume power. 
+
+In Germany, is an example of multi-party representational system. Germany has 6 major political parties... If you get 5% vote, then you get representaiton in the German government... they have 600 seats
+The German government has a lot of parites, so if you get 5% of the popular vote then you get power
+
+In the United States, there are 2 major political parties but it makes it difficult for 3rd parties to win => we have single member election districts (winners take all)
+The founding fathers did this to create political parties that support broad and diverse interests of people => creates compromise.
+
+Power elite theory: The view that a small handful of wealthy, influential Americans exercises extensive control over government decisions.
+
+Politcal Parties
+History + Role of Politcal Parties in the US
+During the Constituition, there was division between the Federalist and the Anti-Federalist but they were not official political parites. 
+  - No assembly prior to election. The federalist and anti-federalist are pre-cursors to political parties
+  - The Constituition does not mention political parties which leads to problems
+  - The founders believed that political parties are engines that place themselves over the country
+
+The Electoral College elects the president but originally the loser would become the VP 
+  => In 1796, John Adams is elected president but his opponent is Thomas Jefferson becomes VP but leaves => Had different party president and VP
+  => In 1800, Jefferson and Burr were running but created more problems... No candidate between (Jefferson and Burr => both same party) has a majority but Jefferson wins on the 43rd ballot in Congress
+       -> Aaron Burr and Jefferson had the same political party 
+To fix same party problem of Jefferson and Burr, the 12th amendment recognizes politcal parties and allows the president to choose his VP running mate. 
+
+In 1796, Washington warns about the danger of political parties => parties place themselves over the good of the country => a faction that oppresses the minority. 
+The first political parties arise in Washington's cabinet
+  - Thomas Jefferson and James Madison leads Democratic Republican Party
+  - Alexander Hamilton and John Adams lead the Federalist party
+
+Both parties had their own newspapers and caucuses where the party leaders pick the presidential candidates ** Exam **
+
+Initial ways to elect candidates within the party ** Exam **
+- Caucuses are a small group of people who decide the candidate 
+- Around Andrew Jackson's time, there were (introduced) conventions where local states would have delegates that decide the candidate by voting, making deals, trading
+- Today, we have the primary system which decide the nominations (early 20th century)
+
+** Exam **
+In open primary system, you do not have to be registered member of the party to vote. 
+In closed primary system, only registered members can vote for the party's candidate. 
+
+** Exam **
+Super Tuesday: a key day in the United States presidential primary election process. It typically refers to a Tuesday in February or March of a presidential election
+year when the greatest number of U.S. states hold their primary elections or caucuses. The state of Iowa moves their election day sooner to the beginning of the year
+to get more publicity.
+
+Federalist vs Democratic Republicans (1796 - 1800)
+
+Federalist
+ - Supported a Strong federal government 
+ - wanted a national bank
+ - did not support the fremch revolution
+ - Supported the British government
+ - Thought America would be a strong mercantile power
+At the Hartford convention, the Americans won a battle of New Orleans in the War of 1812 => Federalist party collapses as they try to make peace with Great Britain => Paints the federalist as traitors 
+
+Democratic Republicans
+ - Supported an agrarian republic. They thought banking and mercantilism would lead to corruption. => Destroy simple habits and virtue of the land.
+ - strict constructionist but wanted strong state government
+ - sympathetic towards France
+
+ Around 1800, there was a peaceful transition of power between Federalist and the Democratic Republicans => sometimes called the Revolution of 1800
+
+From 1800 - 1824, there is a single party legislature for the Democratic Republics (Era of Good feelings) but there is schism between slavery
+
+The Jackson Era creates the modern day Democratic Party (1828 - 1840) where positions are filled by the spoil system and property qualifications are dropped 
+
+The Whig Party opposed Jackson's party 
+=> The Whig's saw Jackson as a tyrant led by Henry Clay
+=> Jackson did not follow the SCOTUS Indian Removal Act, withdrew federal funds from the Bank before the bank's charter expired.
+=> The issue of slavery collapses the Whigs 
+
+Republican Party rises from the remains of the Whig party which opposes the Republican party 
+
+In 1932, the New Deal Coalition with FDR promises the relief of the Great Depression
+FDR expands executive power which causes African Americans to depart from the Republican Party and join the Democratic Party.
+White Americans join the Republican party
+
+Around the Reagan era, the South is Republican and the North is Democratic 
+Parties provide peaceful transition of power.

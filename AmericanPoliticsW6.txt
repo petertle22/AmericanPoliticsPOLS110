@@ -1,0 +1,137 @@
+There maybe another quiz on the constitution provisons: know all articles, what is delegated powers, 
+
+Midterm: choose a couple roots of american politics and wirte an essay
+
+10-11 questions but we answer 4-5 (all written)
+
+2-paragraph for each questions exam (oct 24)
+Chapters 1-5
+
+Quiz on the constitution (chaptres 3-5) and provisions of constitution
+
+What is self-evident truth of human equality?
+  "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, 
+   that among these are Life, Liberty, and the pursuit of Happiness"
+
+consent, popular sovereing and equality are related
+explain the concept and provide specific examples
+  Consent: I must have a say in how i am governed => voting, right to revolution, 
+  Right to revolution: whenever life, liberty, and pursuit of happiness, we can overthrow the government
+  Prudence: pratical wisdom we do not resolve the government if we do not agree => only can overthrow if there is a long history of abuse
+
+Popular Sovereignty: the principle that the authority of a state and its government
+are created and sustained by the consent of its people, who are the source of the political power
+
+Equality: 
+1. Exclusivist -> Roger B. Taney all white, property owning men are equal
+2. Historicist -> Carl Becker says no universal truth to history, truth is relative to the time
+3. Universal -> Jefferson, Lincoln, MLK applies to all human beings 
+
+We talked about the reconliation of liberty, authroty, energy and power, 
+
+Strong government but free government
+If too string but not sufficiently limitedleads to tyranny
+
+Weak government taht allows ot meuch freedom and not enought ot enfource the law => mobocracy and chaos
+
+Striking a balance between tyranny and orcahny => check and balances => each branch can control stuff on other branches
+Need a government that is strong to hold control itself and must enable itself.
+The strength of government also ensures liberty
+
+Federalist, 9 => Hamilton (The constitution slide 4)
+Empower and limit the government by restraining its sphere of operation
+
+Regular distribution ofpower into distinct departments => the executive branch, judicial, and legisalure
+The Supreme court can exercise judicial review and we have bicameral house => Both must pass a law
+The president may veto a law.
+
+An inpdependt judiciary cannot reflect the impulse of the people and be impartial => representatives which is why they serve for life 
+
+Article 1 section 8, line 17: Elastic/Necessary & Proper Clause
+
+Article 1 section 1, 1-17: legistalitve branch=> power is granted inot Congress which has a senate and house
+435 members in house EXAM seats are based on population
+Population of each district is about 720,000
+
+Article 2 section 1: executive enforces the law (the articles had this but he didn't do anyting)
+
+Article 3 section 1: judiciary: law judging by the supreem court
+
+Madison considersall powers legistalitve, executive, and judiciary in the same hands is tyryanny.
+
+Exam:
+The separation of power is not absolute, but shared and mixed
+Branches have primary powers: Articles I, II, III
+Power is interconnnected, interpenetraing & Defense
+Check and balances - Power used to off-set Power
+Example: President can veto (article 1), supreme court can strike unconstituional (judicial review)
+Marbury vs Madison (1803) established judicial review
+executive orders -> a declaration by the president or a governor which manages operations of the federal government
+2/3 Supermajority override
+
+Madison says the greatest security against graduate concentration of powers 
+"Ambition must be made to counteract ambition" Madison in Federalist 51 => they expect people in gaovernment to be self fish
+and pursue for their own interest => individuals are going to expand their own power, so the branches have tension with each other
+-> Constituion slide 11 => harnessing self-interset for each branch will pit the government against itself
+Example: bicameral house, judicial review, the house indicts the president but senate must vote 2/3 majority to remove president from office
+Congress decides the size of the court, but the president appoints the judges
+
+Enumerated/Expressed/Delegated Powers: (The constiiton slide 13)
+Article 1 section 8, 1-17: Power assigned to legislature 
+Congress can collect taxes, borrow money, regulate commerce with foreign nations, coin money, declare war, raise army, and navy
+
+
+Separation of power articles 1,2,3
+
+Congress will short the declaration of war but tells president to work => congress evades responsiliblity
+War has been declared 5 times but Congress has allowed the use of military use
+Gulf of tonkin resolution
+1. War of 1812
+2. Mexican American War
+3. Spanish American War
+4. World War 1
+5. World War 2
+Authorization use of military force: Congress allows the president to use the military force.
+Korea was a UN => peace action of the UN
+
+What is an example of implied powers? the elastic clause
+Implied powers / Elastic powers & Necessary and Proper Clause (Article 1 section 8, 17)
+Provides flexibility in carrying out enumeated powers
+
+Battle over the bank was is an example of Congress's implied powers. 
+Loose/Braod vs Strict/Narrow Construction
+
+Loowse/Broad Construction: the federal govenment is given broad discretion on carying out its enumerated powers
+Strict/Narrow Construction: the federal government is strictly restricted to what they granted in the constitution. All discretionary authority lies in the states. 
+
+Whether or not congress can create a national bank => constituition did not say if they can make a national bank
+Jefferson said no BC the constiiton did not say => Jefferson said it is only necessary when it's the absolute last resort
+Hamilton said we need a national bank to carry out its enumerated power of taxes and coining money => as a consequence the implied and Elastic power allows it => it is convenient
+
+Hamilton was re-affirmed McCulloch Vs Maryland, 1819 => secured Hamilton's Provide
+the state government cannot tax the federal government
+
+Jefferson said taht all powers not deleated to the US, nor prohibited by it to the states
+they are limited to what the constition said and that's it => Jefferson arggued Necessary and proper does not mean convenient
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+American Politics Quiz next week (online open quiz)
+
+Korematsu v. United States: upheld united states internment camps vs united states
+
+Prohibited powers (federal government do not get these powers) Article 1, Section 9
+Powers denied explicityly
+- Privilege of Writ of Habeaus Corpus shall not be suspended, unless when in cases of rebelllion or invasion of public safety
+      Habeaus corpus prevents arbitrary unrest and the judge reviews the charges => allows the accused to constest detention
+- No bill of attainder or ex post facto law shall be passed
+      Bill of Attainder: act of a legislature declaring a person, or a group of people, guilty of some crime, and punishing them, often without a trial.
+      ACt of congress to punish someone without judicial review
+      ex post facto: having a law that causes/someone punish someone for doing something that was lawful at the time but is now illegal => for example: raising of driknig
+- No title of nobility shall be granted by the united states
+- No staets shall enter into any treaty, alliance or confederation, grant letters of marque and reprisal; coin money... pass any bill of attainder, ex post facto law
+
+Division of Powers-Federalim:
+Unitary/Consolidated: centralized tyranny
+federal-divided authority-nation/state-local 
+Confederacy-Decentralized-anarchy
